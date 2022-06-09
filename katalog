@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>TOP 5 DRIFT CARS</title>
+    <style>
+    body {
+    );
+        background-color: aqua 
+        }
+    </style>
+</head>
+
+<body>
+    <ul>
+        <a href="index.html">
+            <li>Главная</li>
+        </a>
+        <a href="index.html">
+            <li>Каталог</li>
+        </a>
+        <a href="registration.html">
+            <li>Регистрация</li>
+        </a>
+        <hr>
+        <i>
+            <p>Тут показаны самые популярные дрифт-корчи этого века!</p>
+        </i>
+    </ul>
+    <ol>
+    </ol>
+    <h1> <a href="https://static.baza.farpost.ru/v/1615198274244_bulletin"> Toyota Supra A80</a></h1>
+    <h2><a href="https://a.d-cd.net/DgAAAgIBZeA-960.jpg"> Toyota MARK II</a></h2>
+    <hr>
+    <p><i>Все права защищены.</i></p>
+<img src="" alt="">
+</body>
+
+</html>
